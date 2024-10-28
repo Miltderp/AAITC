@@ -7,13 +7,18 @@ NOTE* We are under NDA so these images are not the actual application, nor can w
 
 ![alt text](https://github.com/Miltderp/AAITC/blob/main/get_started.jpg?raw=true)
 
+
 ![alt text](https://github.com/Miltderp/AAITC/blob/main/dropdown_location.jpg?raw=true)
+
 
 ![alt text](https://github.com/Miltderp/AAITC/blob/main/selectedlocation.jpg?raw=true)
 
+
 ![alt text](https://github.com/Miltderp/AAITC/blob/main/parttype.jpg?raw=true)
 
+
 ![alt text](https://github.com/Miltderp/AAITC/blob/main/imageprocessing.jpg?raw=true)
+
 
 ![alt text](https://github.com/Miltderp/AAITC/blob/main/confirm.jpg?raw=true)
 
